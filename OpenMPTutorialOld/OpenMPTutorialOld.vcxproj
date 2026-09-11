@@ -123,7 +123,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Hello.cpp" />
+    <ClCompile Include="Linked.cpp" />
+    <ClCompile Include="MatMul.cpp" />
     <ClCompile Include="OpenMPTutorialOld.cpp" />
+    <ClCompile Include="Pi.cpp" />
+    <ClCompile Include="Pi_MC.cpp" />
+    <ClCompile Include="Prod_Cons.cpp" />
+    <ClCompile Include="Random.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Random.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
