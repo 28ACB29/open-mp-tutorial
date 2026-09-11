@@ -24,6 +24,7 @@
     <ProjectGuid>{1791b3ad-4d96-4a8c-8ea4-3e456edcf4a1}</ProjectGuid>
     <RootNamespace>OpenMPNew</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>OpenMPTutorialNew</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
